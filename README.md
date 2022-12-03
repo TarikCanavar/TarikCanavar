@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TarikCanavar. I'm currently 3rd-year Computer Engineering Student at Dokuz Eylül University.
-- 👀 I’m interested in Cloud Technologies
-- 🌱 I’m currently learning AWS Cloud Essentials
+- 👋 Hi, I’m @TarikCanavar. I'm currently 4th-year Computer Engineering Student at Dokuz Eylül University.
+- 👀 I’m interested in Cloud Technologies and Mobile Development.
+- 🌱 I’m currently learning Flutter.
 - 📫  tarikcanavar@gmail.com
 
 <!---
