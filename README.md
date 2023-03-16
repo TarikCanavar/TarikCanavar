@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TarikCanavar. I'm currently 4th-year Computer Engineering Student at Dokuz Eylül University.
-- 👀 I’m interested in Cloud Technologies and Mobile Development.
-- 🌱 I’m currently learning Flutter.
+- 👀 I’m interested in Cloud Technologies and Machine Learning.
+- 🌱 I’m currently working on Intelligent Decision Support Systems.
 - 📫  tarikcanavar@gmail.com
 
 <!---
