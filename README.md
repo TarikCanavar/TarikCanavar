@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TarikCanavar. I'm currently 4th-year Computer Engineering Student at Dokuz Eylül University.
-- 👀 I’m interested in Cloud Technologies and Machine Learning.
-- 🌱 I’m currently working on Intelligent Decision Support Systems.
+- 🌱 I’m currently working on Microservices and Front-End Development.
 - 📫  tarikcanavar@gmail.com
 
 <!---
