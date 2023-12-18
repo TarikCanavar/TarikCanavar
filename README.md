@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TarikCanavar. I'm currently 4th-year Computer Engineering Student at Dokuz Eylül University.
 - 🌱 I’m currently working on Microservices and Front-End Development.
+- I am working as a long-term intern at @IBTECH. 
 - 📫  tarikcanavar@gmail.com
 
 <!---
